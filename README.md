@@ -1,1 +1,2 @@
 # sentinel_explore
+A repo to play with earth observation data, most code is currently taken from <a href="https://github.com/antonbaumann/MIMO-Unet/tree/main">MIMO-Unet repo</a> and the dataloaders are from <a href="https://github.com/oceanites/sen12tp.git">sen12tp repo</a>.
